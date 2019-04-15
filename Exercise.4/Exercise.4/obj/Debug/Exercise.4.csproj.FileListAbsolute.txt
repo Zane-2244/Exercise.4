@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\bin\Debug\Exercise.4.exe.config
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\bin\Debug\Exercise.4.exe
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\bin\Debug\Exercise.4.pdb
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\obj\Debug\Exercise.4.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\obj\Debug\Exercise.4.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\obj\Debug\Exercise.4.exe
+C:\Users\Zane\source\repos\Exercise.4\Exercise.4\obj\Debug\Exercise.4.pdb
